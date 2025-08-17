@@ -362,6 +362,16 @@
         "name": "𝙴𝚟𝚘𝚕𝚞𝚝𝚒𝚘𝚗 𝙴𝚊𝚛𝚝𝚑",
         "link": "https://jmp2.uk/sam-CA900003IF.m3u8",
         "image": "https://image.pbs.org/contentchannels/ZymkGHm-show-mezzanine16x9-bheUUPN.jpg"
+      },
+      {
+        "name": "𝙰𝚗𝚒𝚖𝚊𝚕 𝙿𝚕𝚊𝚗𝚎𝚝",
+        "link": "https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png"
+      },
+      {
+        "name": "𝙳𝚒𝚜𝚌𝚘𝚟𝚎𝚛𝚢 𝙲𝚑𝚊𝚗𝚗𝚎𝚕",
+        "link": "http://fl1.moveonjoy.com/Discovery_Channel/index.m3u8",
+        "image": "https://cdn.freebiesupply.com/logos/large/2x/discovery-channel-logo-png-transparent.png"
       }
     ]
   }
