@@ -353,28 +353,16 @@
       }
     ],
     "𝐄𝐃𝐔𝐓𝐀𝐈𝐍𝐌𝐄𝐍𝐓 𝐂𝐇𝐀𝐍𝐍𝐄𝐋": [
-{
-        "name": "𝙰𝚗𝚒𝚖𝚊𝚕 𝙿𝚕𝚊𝚗𝚎𝚝",
-        "link": "https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png"
-      },
-      {
-        "name": "𝙳𝚒𝚜𝚌𝚘𝚟𝚎𝚛𝚢 𝙲𝚑𝚊𝚗𝚗𝚎𝚕",
-        "link": "http://fl1.moveonjoy.com/Discovery_Channel/index.m3u8",
-        "image": "https://cdn.freebiesupply.com/logos/large/2x/discovery-channel-logo-png-transparent.png"
-      },
-
       {
         "name": "𝙱𝙱𝙲 𝙴𝚊𝚛𝚝𝚑",
-        "link": "https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8"
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/BBC_Earth.svg/2560px-BBC_Earth.svg.png"
+        "link": "https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/BBC_Earth.svg/250px-BBC_Earth.svg.png"
       },
-
       {
-        "name": "𝚃𝚛𝚊𝚟𝚎𝚕 𝙲𝚑𝚊𝚗𝚗𝚎𝚕",
-        "link": "https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8"
-        "𝚒𝚖𝚊𝚐𝚎": "https://upload.wikimedia.org/wikipedia/commons/0/07/Travel_Channel_logo.png"
+        "name": "𝙴𝚟𝚘𝚕𝚞𝚝𝚒𝚘𝚗 𝙴𝚊𝚛𝚝𝚑",
+        "link": "https://jmp2.uk/sam-CA900003IF.m3u8",
+        "image": "https://image.pbs.org/contentchannels/ZymkGHm-show-mezzanine16x9-bheUUPN.jpg"
       }
     ]
   }
-    ]
+]
