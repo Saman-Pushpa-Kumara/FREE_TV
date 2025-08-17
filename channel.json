@@ -138,9 +138,9 @@
     ],
     "𝐊𝐈𝐃𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋": [
       {
-        "name": "𝙺𝚒𝚍𝚘𝚘𝚍𝚕𝚎 𝚃𝚅",
-        "link": "https://jmp2.uk/sam-USAK3508716A.m3u8",
-        "image": "https://d1iiooxwdowqwr.cloudfront.net/pub/appsubmissions/20201230211817_FullLogoColor4x.png"
+        "name": "𝙱𝚊𝚋𝚢 𝚃𝚅",
+        "link": "http://38.180.133.31:8000/play/a0kf/index.m3u8",
+        "image": "https://www.babytv.com/app/uploads/2019/12/LogoBabyTV-2019.png"
       },
       {
         "name": "𝙲𝚊𝚛𝚝𝚘𝚘𝚗 𝙽𝚎𝚝𝚠𝚘𝚛𝚔",
@@ -198,7 +198,27 @@
         "name": "𝙰𝚍𝚊 𝙳𝚎𝚛𝚊𝚗𝚊 24",
         "link": "https://edge3-moblive.yuppcdn.net/transsd/smil:addetv13.smil/playlist.m3u8",
         "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/014.png"
+      },
+
+{
+        "name": "𝙱𝙱𝙲 𝙽𝚎𝚠𝚜",
+        "link": "http://38.180.133.31:8000/play/a0nl/index.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/1024px-BBC_News_2019.svg.png"
+      },
+
+{
+        "name": "𝙲𝙽𝙽",
+        "link": "http://38.180.133.31:8000/play/a0kq/index.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png"
+      },
+{
+        "name": "𝙵𝚛𝚊𝚗𝚌𝚎 24",
+        "link": "http://38.180.133.31:8000/play/a0nm/index.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/509px-France24.png"
       }
+
+
+
     ],
     "𝐒𝐏𝐎𝐑𝐓𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋": [
       {
