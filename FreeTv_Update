@@ -1,14 +1,14 @@
 {
-  "versionCode": 13,
-  "versionName": "13.0.0 beta",
+  "versionCode": 14,
+  "versionName": "14.0.0 beta",
   "Msg": "New update is available, to continue in our app please update it.
 
 What's new:
 - Performance Improvements.
 - Foreign channels are not broadcast in some cases.
-- Minimal size.
-- Netflix subtitle direct add.
+- Smart UI
+- Netflix & FM remove
 
 Thanks for using",
-  "downloadLink": "https://t.me/@smalicode"
+  "downloadLink": "https://www.facebook.com/100063592253175/posts/pfbid0wKZaM1F6xPrSR8gL3c4x6hnLVsPGfJaz2SzukSyMVzJTrXmaaBVQ98ChzxnwwcTGl/?app=fbl"
   }
