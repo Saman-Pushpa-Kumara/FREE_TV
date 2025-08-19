@@ -176,7 +176,7 @@
 
 {
         "name": "𝙲𝙽𝙽",
-        "link": "http://38.180.133.31:8000/play/a0kq/index.m3u8",
+        "link": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
         "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png"
       },
 {
@@ -189,7 +189,15 @@
         "name": "𝙰𝙱𝙲 𝙰𝚄𝚂𝚃𝚁𝙰𝙻𝙸𝙰",
         "link": "https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8",
         "image": "https://www.pngfind.com/pngs/m/258-2582008_no-logo-abc-australia-logo-png-transparent-png.png"
+      },
+
+{
+        "name": "𝙰𝚕 𝙹𝚊𝚣𝚎𝚎𝚛𝚊",
+        "link": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/de/6/60/Al_Jazeera_Mubasher_Misr.png"
       }
+
+
 
 
     ],
