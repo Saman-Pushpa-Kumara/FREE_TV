@@ -98,9 +98,32 @@
         "name": "𝙵𝚊𝚜𝚑𝚒𝚘𝚗 𝚃𝚅",
         "link": "https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Fashion_TV_logo_2017.svg/1200px-Fashion_TV_logo_2017.svg.png"
+      },
+      
+     
+{
+        "name": "𝙼𝚃𝚅",
+        "link": "https://fl3.moveonjoy.com/MTV/index.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/MTV_2021_(brand_version).svg"
+      },
+
+ 
+{
+        "name": "𝚂𝚝𝚊𝚛𝚣",
+        "link": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Just_For_Laughs_Gags.png/1200px-Just_For_Laughs_Gags.png"
+      },
+
+{
+        "name": "𝚂𝚒𝚛𝚒𝚙𝚙𝚕𝚒 𝚃𝚅",
+        "link": "https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/en/7/74/Sirippoli_tv.jpg"
       }
-      
-      
+
+
+
+
+
      
       
     ],
@@ -159,7 +182,17 @@
         "name": "𝙱𝙱𝙲 𝙺𝚒𝚍𝚜",
         "link": "https://jmp2.uk/sam-US800003JM.m3u8",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBG7dWiFB70pJ9eWiMALcmoaVyPZsb935tCA&s"
+      },
+
+{
+        "name": "𝙳𝚛𝚎𝚊𝚖𝚠𝚘𝚛𝚔𝚜",
+        "link": "https://tv.ddns.vn/tv/dreamworks/index.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/1200px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png"
       }
+
+
+
+
     ],
     "𝐍𝐄𝐖𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋": [
       {
@@ -273,9 +306,13 @@
         "name": "𝚂𝚘𝚗𝚢 𝚂𝚙𝚘𝚛𝚝 5",
         "link": "https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8",
         "image": "https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png/revision/latest/scale-to-width-down/200?cb=20221025091902"
-      }
+      },
 
-      
+      {
+        "name": "𝙼𝙻𝙱 𝙽𝚎𝚝𝚠𝚘𝚛𝚔",
+        "link": "https://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/en/a/ac/MLBNetworkLogo.svg"
+      }
 
 
       
@@ -324,7 +361,7 @@
       
       {
         "name": "𝙿𝚊𝚛𝚊𝚖𝚘𝚞𝚗𝚝 𝙼𝚘𝚟𝚒𝚎",
-        "link": "https://jmp2.uk/sam-USAJ26000054W.m3u8",
+        "link": "https://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8",
         "image": "https://yt3.googleusercontent.com/by3BZnFc-zLRixmYTSPNxY05UZtAN2vOguvs1ocqvjJTlLnpnhfjM_8ToHoGlOBMFByPsLi7=s900-c-k-c0x00ffffff-no-rj"
       },
       {
@@ -362,7 +399,58 @@
         "name": "𝙾𝚞𝚝𝚎𝚛𝙼𝚊𝚡",
         "link": "http://fl3.moveonjoy.com/OUTER_MAX/index.m3u8",
         "image": "https://www.tvinsider.com/wp-content/uploads/2023/08/outer-max.png"
+      },
+
+{
+        "name": "𝙳𝚒𝚜𝚌𝚘𝚟𝚎𝚛𝙵𝚒𝚕𝚖",
+        "link": "https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8",
+        "image": "https://image.roku.com/developer_channels/prod/a00eae4d7ddccd1ae26bf7e86fd3ddd1866e75bcc685bb86a5071a1f970ae054.png"
+      },
+
+{
+        "name": "𝙼𝚊𝚍𝚎 𝚒𝚗 𝙷𝚘𝚕𝚕𝚢𝚠𝚘𝚘𝚍",
+        "link": "https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8",
+        "image": "https://pbs.twimg.com/profile_images/700470249162825730/7o8nGc8n_400x400.jpg"
+      },
+
+
+{
+        "name": "𝙼𝙶𝙼 𝙷𝙳",
+        "link": "https://v2.catcast.tv/content/44051/index.m3u8",
+        "image": "https://www.vhv.rs/dpng/d/34-342254_mgm-channel-logo-hd-png-download.png"
+      },
+
+
+{
+        "name": "𝙼𝚘𝚟𝚒𝚎𝙱𝚘𝚡",
+        "link": "https://cdn3.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8",
+        "image": "https://play-lh.googleusercontent.com/rGllrm_fPYAEXcjK--kxABWLgD1kng033VKCBDUCIZ5osB5W79OufN4su0eVv2-mvL8s"
+      },
+
+
+{
+        "name": "𝚂𝚔𝚢 𝙲𝚒𝚗𝚎𝚖𝚊 𝙵𝚊𝚖𝚒𝚕𝚢",
+        "link": "https://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6535776-1/playlist.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Sky_Cinema_Family_DE_Logo_2016.png"
+      },
+
+
+{
+        "name": "𝚂𝚝𝚊𝚛 𝚃𝚊𝚖𝚒𝚕",
+        "link": "https://edge4-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8?dvr",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKtOGKmITNfhqt2EbtC1nxUkWqCpE42L95qA&s"
+      },
+
+
+
+{
+        "name": "𝚂𝚝𝚊𝚛𝚣",
+        "link": "https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/en/3/3a/Kalaignar_logo.jpg"
       }
+
+
+
     ],
     "𝐄𝐃𝐔𝐓𝐀𝐈𝐍𝐌𝐄𝐍𝐓 𝐂𝐇𝐀𝐍𝐍𝐄𝐋": [
       {
