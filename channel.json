@@ -246,7 +246,25 @@
         "name": "𝚂𝚘𝚗𝚢 𝚂𝚙𝚘𝚛𝚝 2",
         "link": "https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8",
         "image": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png"
-      }
+      },
+
+{
+        "name": "𝚂𝚘𝚗𝚢 𝚂𝚙𝚘𝚛𝚝 3",
+        "link": "https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8",
+        "image": "https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png"
+      },
+
+{
+        "name": "𝚂𝚘𝚗𝚢 𝚂𝚙𝚘𝚛𝚝 4",
+        "link": "https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8",
+        "image": "https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png"
+      },
+
+{
+        "name": "𝚂𝚘𝚗𝚢 𝚂𝚙𝚘𝚛𝚝 5",
+        "link": "https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8",
+        "image": "https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png"
+      },
 
 
 
