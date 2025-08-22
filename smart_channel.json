@@ -1,5 +1,5 @@
-  [
- {
+[
+   {
     "𝐋𝐎𝐂𝐀𝐋 𝐂𝐇𝐀𝐍𝐍𝐄𝐋": [
       {
         "name": "𝚁𝚞𝚙𝚊𝚠𝚊𝚑𝚒𝚗𝚒",
@@ -93,21 +93,21 @@
         "link": "http://fl3.moveonjoy.com/FOOD_NETWORK/index.m3u8",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png"
       },
-
+     
       {
         "name": "𝙵𝚊𝚜𝚑𝚒𝚘𝚗 𝚃𝚅",
         "link": "https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Fashion_TV_logo_2017.svg/1200px-Fashion_TV_logo_2017.svg.png"
       },
-
-
+      
+     
 {
         "name": "𝙼𝚃𝚅",
         "link": "https://fl3.moveonjoy.com/MTV/index.m3u8",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_(brand_version).svg/1200px-MTV_2021_(brand_version).svg.png"
       },
 
-
+ 
 {
         "name": "𝙹𝚞𝚜𝚝 𝚏𝚘𝚛 𝙻𝚊𝚞𝚐𝚑𝚜",
         "link": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
@@ -124,8 +124,8 @@
 
 
 
-
-
+     
+      
     ],
     "𝐊𝐈𝐃𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋": [
       {
@@ -250,8 +250,8 @@
         "link": "http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/7343/index.m3u8",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7bQokmb2_lgo6F0KKXCWp0gZBDxtqSHibfQ&s"
       },
-
-
+      
+     
       {
         "name": "𝚃𝚎𝚗 𝙲𝚛𝚒𝚌𝚔𝚎𝚝",
         "link": "https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/chunklist_b996000.m3u8",
@@ -262,7 +262,7 @@
         "link": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8",
         "image": "https://bb-media.com/wp-content/uploads/2024/06/lf2ladJ3XvUsPuhgduCkfJhUTd1cloSzhcrCHIb4p2-7GPm5ZLyocneeaSmvkijb3Mg.png"
       },
-
+     
       {
         "name": "𝙵𝙸𝙵𝙰 +",
         "link": "https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8",
@@ -275,7 +275,7 @@
         "image": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png"
       },
 
-
+      
 
 {
         "name": "𝚂𝚘𝚗𝚢 𝚂𝚙𝚘𝚛𝚝 2",
@@ -315,7 +315,7 @@
       }
 
 
-
+      
 
 
     ],
@@ -326,7 +326,7 @@
         "link": "https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/manifest.m3u8",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/&flix_logo.png"
       },
-
+     
       {
         "name": "𝙷𝙱𝙾 𝙲𝚘𝚖𝚎𝚍𝚢",
         "link": "http://fl3.moveonjoy.com/HBO_COMEDY/index.m3u8",
@@ -352,13 +352,13 @@
         "link": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8",
         "image": "https://images.squarespace-cdn.com/content/v1/63f66748474ef363a52a0c2a/0cd69118-d7d2-4f27-9035-48503aaf585d/IMG_6412.JPG"
       },
-
+    
       {
         "name": "𝙰𝚇𝙽",
         "link": "http://125hvt.ddns.net:21585/axn/index.m3u8",
         "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png"
       },
-
+      
       {
         "name": "𝙿𝚊𝚛𝚊𝚖𝚘𝚞𝚗𝚝 𝙼𝚘𝚟𝚒𝚎",
         "link": "https://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8",
@@ -394,7 +394,7 @@
         "link": "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8AM-noVbhkM3MZuBRIS39pnITH4ESWYFp1Q&s"
       },
-
+      
       {
         "name": "𝙾𝚞𝚝𝚎𝚛𝙼𝚊𝚡",
         "link": "http://fl3.moveonjoy.com/OUTER_MAX/index.m3u8",
