@@ -472,7 +472,16 @@
         "name": "𝙳𝚒𝚜𝚌𝚘𝚟𝚎𝚛𝚢 𝙲𝚑𝚊𝚗𝚗𝚎𝚕",
         "link": "http://fl1.moveonjoy.com/Discovery_Channel/index.m3u8",
         "image": "https://cdn.freebiesupply.com/logos/large/2x/discovery-channel-logo-png-transparent.png"
+      },
+
+{
+        "name": "Моя Планета",
+        "link": "http://194.143.148.28:8080/MoyaPlanetaHD/index.m3u8",
+        "image": "https://toplogos.ru/images/logo-moya-planeta.jpg"
       }
+
+
+
     ]
   }
 ]
