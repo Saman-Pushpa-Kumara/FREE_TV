@@ -478,6 +478,11 @@
         "name": "Моя Планета",
         "link": "http://194.143.148.28:8080/MoyaPlanetaHD/index.m3u8",
         "image": "https://toplogos.ru/images/logo-moya-planeta.jpg"
+      },
+{
+        "name": "𝙾𝚞𝚝𝚜𝚒𝚍𝚎 𝚃𝚅",
+        "link": "https://outsidetv-firetv.amagi.tv/playlist.m3u8",
+        "image": "https://images.seeklogo.com/logo-png/50/1/outside-tv-logo-png_seeklogo-509597.png"
       }
 
 
