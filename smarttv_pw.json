@@ -13,47 +13,17 @@
   "admin_url": "https://w.me/94757238914",
   "device_section": [
     {
-      "device_id": "3e117dc66181231d",
-      "password": "12345",
-      "expire_date": "2025-12-31"
+      "device_id": "d46ecbf8c336511d",
+      "password": "12",
+      "expire_date": "2025-08-31"
     },
     {
-      "device_id": "e",
+      "device_id": "efgh5678",
       "password": "54321",
       "expire_date": "2025-11-30"
     },
     {
-      "device_id": "xy",
-      "password": "abcde",
-      "expire_date": "2025-10-15"
-    },
-    {
-      "device_id": "xyz9",
-      "password": "abcde",
-      "expire_date": "2025-10-15"
-    },
-    {
-      "device_id": "xy3f",
-      "password": "abcde",
-      "expire_date": "2025-10-15"
-    },
-    {
-      "device_id": "xyz9",
-      "password": "abcde",
-      "expire_date": "2025-10-15"
-    },
-    {
-      "device_id": "xyz98d",
-      "password": "abcde",
-      "expire_date": "2025-10-15"
-    },
-    {
-      "device_id": "xyz98g",
-      "password": "abcde",
-      "expire_date": "2025-10-15"
-    },
-    {
-      "device_id": "xyz9d",
+      "device_id": "xyz9876",
       "password": "abcde",
       "expire_date": "2025-10-15"
     }
