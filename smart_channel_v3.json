@@ -188,11 +188,7 @@
         "link": "http://fl1.moveonjoy.com/NICKELODEON/index.m3u8",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Nickelodeon_2023_logo.svg/1200px-Nickelodeon_2023_logo.svg.png"
       },
-      {
-        "name": "𝙱𝙱𝙲 𝙺𝚒𝚍𝚜",
-        "link": "https://jmp2.uk/sam-US800003JM.m3u8",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBG7dWiFB70pJ9eWiMALcmoaVyPZsb935tCA&s"
-      },
+      
 
 {
         "name": "𝙳𝚛𝚎𝚊𝚖𝚠𝚘𝚛𝚔𝚜",
@@ -265,6 +261,13 @@
         "name": "𝙱𝚒𝚕𝚕𝚒𝚊𝚛𝚍 𝚃𝚅",
         "link": "https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8",
         "image": "https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/billiardtv.png"
+      },
+
+
+{
+        "name": "𝚃 𝚂𝚙𝚘𝚛𝚝𝚜 𝙷𝙳",
+        "link": "http://103.15.140.138/tsports/index.m3u8",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_7tL52KQxnw_q4sc1DtHLpTGoSBOsjAMshQ&s"
       },
       {
         "name": "𝚂𝚔𝚢 𝚂𝚙𝚘𝚛𝚝𝚜 1",
@@ -368,11 +371,7 @@
         "link": "http://fl3.moveonjoy.com/HBO_ZONE/index.m3u8",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HBO_Zone_logo.png/640px-HBO_Zone_logo.png"
       },
-      {
-        "name": "𝙱𝚘𝚕𝚕𝚢𝚠𝚘𝚘𝚍 𝙷𝙳",
-        "link": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8",
-        "image": "https://images.squarespace-cdn.com/content/v1/63f66748474ef363a52a0c2a/0cd69118-d7d2-4f27-9035-48503aaf585d/IMG_6412.JPG"
-      },
+      
     
       {
         "name": "𝙰𝚇𝙽",
@@ -416,18 +415,7 @@
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8AM-noVbhkM3MZuBRIS39pnITH4ESWYFp1Q&s"
       },
       
-      {
-        "name": "𝙾𝚞𝚝𝚎𝚛𝙼𝚊𝚡",
-        "link": "http://fl3.moveonjoy.com/OUTER_MAX/index.m3u8",
-        "image": "https://www.tvinsider.com/wp-content/uploads/2023/08/outer-max.png"
-      },
-
-{
-        "name": "𝙳𝚒𝚜𝚌𝚘𝚟𝚎𝚛𝙵𝚒𝚕𝚖",
-        "link": "https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8",
-        "image": "https://image.roku.com/developer_channels/prod/a00eae4d7ddccd1ae26bf7e86fd3ddd1866e75bcc685bb86a5071a1f970ae054.png"
-      },
-
+   
 {
         "name": "𝙼𝚊𝚍𝚎 𝚒𝚗 𝙷𝚘𝚕𝚕𝚢𝚠𝚘𝚘𝚍",
         "link": "https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8",
@@ -441,12 +429,6 @@
         "image": "https://upload.wikimedia.org/wikipedia/it/e/ec/The_MGM_Channel.png"
       },
 
-
-{
-        "name": "𝙼𝚘𝚟𝚒𝚎𝙱𝚘𝚡",
-        "link": "https://cdn3.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8",
-        "image": "https://play-lh.googleusercontent.com/rGllrm_fPYAEXcjK--kxABWLgD1kng033VKCBDUCIZ5osB5W79OufN4su0eVv2-mvL8s"
-      },
 
 
 {
