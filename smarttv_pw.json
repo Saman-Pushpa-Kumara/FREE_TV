@@ -1,5 +1,5 @@
 {
-  "dialog_enable": false,
+  "dialog_enable": true,
   "online_enable": true,
   "title": "Premium Access",
   "descriptions": [
@@ -20,57 +20,57 @@
     {
       "device_id": "c9bf65e9033a561b",
       "password": "201",
-      "expire_date": "2025-08-31"
+      "expire_date": "2025-09-06"
     },
     {
       "device_id": "36dfe901ba1f5bb3",
       "password": "202",
-      "expire_date": "2025-09-01"
+      "expire_date": "2025-09-06"
     },
     {
       "device_id": "49998441b661103e",
       "password": "203",
-      "expire_date": "2025-08-31"
+      "expire_date": "2025-09-06"
     },
     {
       "device_id": "969cff522b4c76f7",
       "password": "204",
-      "expire_date": "2025-08-31"
+      "expire_date": "2025-09-06"
     },
         {
       "device_id": "9592d5bcda833e99",
       "password": "205",
-      "expire_date": "2025-08-31"
+      "expire_date": "2025-09-06"
     },
         {
       "device_id": "f1c4fc8f08f5d0e0",
       "password": "206",
-      "expire_date": "2025-08-31"
+      "expire_date": "2025-09-06"
     },
         {
       "device_id": "5660fef67071e572",
       "password": "207",
-      "expire_date": "2025-08-31"
+      "expire_date": "2025-09-06"
     },
         {
       "device_id": "5f277d77fe7ac764",
       "password": "208",
-      "expire_date": "2025-08-31"
+      "expire_date": "2025-09-06"
     },
         {
       "device_id": "c8a1267c5a8aaa70",
       "password": "209",
-      "expire_date": "2025-08-31"
+      "expire_date": "2025-09-06"
     },
         {
       "device_id": "2e8e095acffbb112",
       "password": "210",
-      "expire_date": "2025-08-31"
+      "expire_date": "2025-09-06"
     },
 {
       "device_id": "67d14b22c44e2d42",
       "password": "211",
-      "expire_date": "2025-08-31"
+      "expire_date": "2025-09-06"
     },
 
     {
