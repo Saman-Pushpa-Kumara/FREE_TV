@@ -139,14 +139,29 @@
       
     "𝐊𝐈𝐃𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋": [
       {
-        "name": "𝙱𝚊𝚋𝚢 𝚃𝚅",
-        "link": "http://38.180.133.31:8000/play/a0kf/index.m3u8",
-        "image": "https://www.babytv.com/app/uploads/2019/12/LogoBabyTV-2019.png"
+        "name": "𝙱𝚊𝚋𝚢𝙵𝚒𝚛𝚜𝚝",
+        "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8",
+        "image": "https://e7.pngegg.com/pngimages/1014/985/png-clipart-babyfirsttv-babytv-smile-baby-watching-tv-text-balloon-thumbnail.png"
       },
+
+
+{
+        "name": "𝙻𝚎𝚐𝚘 𝙲𝚑𝚊𝚗𝚗𝚎𝚕",
+        "link": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb01a24795a6000762fe83/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=65f7a3a9-1736-46bc-aaa5-7e4778774536",
+        "image": "https://static.wikia.nocookie.net/tvfan/images/8/86/LEGO_logo.svg.png/revision/latest?cb=20160712231242"
+      },
+
+
       {
         "name": "𝙲𝚊𝚛𝚝𝚘𝚘𝚗 𝙽𝚎𝚝𝚠𝚘𝚛𝚔",
         "link": "https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8",
         "image": "https://logoeps.com/wp-content/uploads/2013/01/cartoon-network-logo-vector.png"
+      },
+
+{
+        "name": "𝙴𝙱𝚂 𝙺𝚒𝚍𝚜",
+        "link": "https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/EBS_KIDS.svg/2560px-EBS_KIDS.svg.png"
       },
       {
         "name": "𝙽𝚒𝚔𝚔𝚢 𝚃𝚅",
