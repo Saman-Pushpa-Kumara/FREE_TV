@@ -24,6 +24,7 @@
             border-radius: 8px;
             overflow: hidden;
             box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+            position: relative;
         }
         video {
             width: 100%;
@@ -328,25 +329,39 @@
             updateStatus("Fetching stream data...");
             
             try {
+                // API Request
                 const response = await fetch(`${STREAM_API_BASE}${channelId}`);
-                if (!response.ok) throw new Error("Network error or Invalid API response");
+                if (!response.ok) {
+                    throw new Error(`Network Error: ${response.status}`);
+                }
                 
-                const data = await response.json();
+                const result = await response.json();
+                console.log("API Response Data:", result); // Debugging සඳහා (Error එක එන්නේ ඇයිදැයි බැලීමට)
+
+                // සමහරවිට url එක තියෙන්නේ result.data ඇතුලෙ වෙන්න පුළුවන්
+                const streamData = result.data ? result.data : result;
+
+                if (!streamData || !streamData.url) {
+                    throw new Error("Invalid API response (Stream URL is missing)");
+                }
+
                 const video = document.getElementById('video');
                 
                 if (!player) {
                     player = new shaka.Player(video);
                     player.addEventListener('error', (e) => {
-                        showError("Playback error code: " + (e.detail ? e.detail.code : 'Unknown'));
+                        const errorCode = e.detail ? e.detail.code : 'Unknown';
+                        console.error('Shaka Player Error:', e);
+                        showError("Playback error code: " + errorCode);
                     });
                 }
 
                 // DRM Settings (Widevine)
-                if (data.drm && data.drm.widevine) {
+                if (streamData.drm && streamData.drm.widevine && streamData.drm.widevine.wv_license_proxy_url) {
                     player.configure({
                         drm: {
                             servers: {
-                                'com.widevine.alpha': data.drm.widevine.wv_license_proxy_url
+                                'com.widevine.alpha': streamData.drm.widevine.wv_license_proxy_url
                             },
                             advanced: {
                                 'com.widevine.alpha': {
@@ -357,16 +372,17 @@
                         }
                     });
                 } else {
-                    player.configure({ drm: {} });
+                    player.configure({ drm: {} }); // Clear DRM configurations if none
                 }
 
                 updateStatus("Loading stream...");
-                await player.load(data.url);
+                await player.load(streamData.url);
                 video.play();
                 updateStatus("Stream loaded successfully");
 
             } catch (error) {
-                showError("Cannot play channel: " + error.message);
+                console.error("Play error:", error);
+                showError("Cannot play channel: " + (error.message || "Unknown error"));
             }
         }
 
